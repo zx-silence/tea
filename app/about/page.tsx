@@ -30,13 +30,13 @@ export default function AboutPage() {
             </div>
             <div className="prose prose-lg max-w-none">
               <p className="text-gray-700 leading-relaxed mb-4">
-                中国少年茶人项目启动于2018年，是响应国家"传承中华优秀传统文化"号召而创立的教育公益项目。
+                中国少年茶人项目启动于2018年，是响应国家&ldquo;传承中华优秀传统文化&rdquo;号召而创立的教育公益项目。
                 我们深信，茶文化作为中华文化的重要组成部分，不仅承载着数千年的智慧结晶，
                 更是培养青少年文化自信、道德修养和审美情趣的重要载体。
               </p>
               <p className="text-gray-700 leading-relaxed">
                 五年来，项目已覆盖全国20多个省市，与500余所学校建立合作关系，
-                培养认证教师2000余名，惠及学生超过5万人。我们将继续秉承"以茶育人、以文化人"的理念，
+                培养认证教师2000余名，惠及学生超过5万人。我们将继续秉承&ldquo;以茶育人、以文化人&rdquo;的理念，
                 让更多青少年感受传统文化的魅力。
               </p>
             </div>
@@ -176,7 +176,7 @@ export default function AboutPage() {
           <div className="bg-gradient-to-br from-green-50 to-brand-50 rounded-2xl p-8 md:p-12">
             <div className="max-w-4xl mx-auto">
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                中国少年茶人秉持"让每个孩子都能接受优质传统文化教育"的愿景，
+                中国少年茶人秉持&ldquo;让每个孩子都能接受优质传统文化教育&rdquo;的愿景，
                 建立了可持续的公益运营模式：
               </p>
               <div className="space-y-4 text-gray-700">
